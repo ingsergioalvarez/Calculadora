@@ -7,6 +7,7 @@ La Calculadora de divisas es una aplicación Java que permite a los usuarios con
 ## Instalación
 
 1. Clona este repositorio.
+   https://github.com/ingsergioalvarez/Calculadora.git
 
 ## Uso
 Es indispensable validar que el menu de Intelij, en la opcion de Project Structure... en el apartado de Modulos este el archivo gson-2.10.1.jar de lo contrario en la carpeta delproyecto de nombre gson-2.10.1 
