@@ -9,8 +9,10 @@ La Calculadora de divisas es una aplicación Java que permite a los usuarios con
 1. Clona este repositorio.
 
 ## Uso
-Es indispensable validar que el menu de Intelij, en la opcion de Project Structure... en el apartado de Modulos este el archivo gson-2.10.1.jar de lo contrario en la carpeta delproyecto de nombre gson-2.10.1 se incluye solo es necesario dar clic en el simbolo de mas y elegir dicho archivo
-para poder inicializar correctamente el sistema 
+Es indispensable validar que el menu de Intelij, en la opcion de Project Structure... en el apartado de Modulos este el archivo gson-2.10.1.jar de lo contrario en la carpeta delproyecto de nombre gson-2.10.1 
+
+En caso de no contar con el archivo se puede descargar el archivo .jar desde https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1 
+
 
 ![Pantalla 0](Imagenes/pantalla0.PNG)
 
